@@ -1,0 +1,24 @@
+body {
+	background-color: #F7F6F0;
+	display: flex;
+	padding: 80px;
+	font-family: 'Lato', sans-serif;
+}
+
+.h1 {
+	font-size: 40px;
+}
+
+.h2 {
+	font-size: 18px;
+	color: #828282;
+	margin-top: 20px;
+}
+
+.list {
+	margin-top: 20px;
+}
+
+.link {
+	margin-top: 200px;
+}
